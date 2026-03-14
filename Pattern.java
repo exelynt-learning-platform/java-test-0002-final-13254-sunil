@@ -16,7 +16,6 @@ public class Pattern {
             for (int j = i - 1; j >= 1; j--) {
                 System.out.print(j + " ");
             }
-            //next line
             System.out.println();
         }
     }
